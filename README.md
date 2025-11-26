@@ -226,5 +226,3 @@ Add them in:
 * Tailwind CSS – [https://tailwindcss.com](https://tailwindcss.com)
 
 
-
-Just tell me the style you want.
