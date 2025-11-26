@@ -35,29 +35,36 @@ AIRA is structured using a layered and modular architecture for scalability, mai
 ## **Folder Structure**
 
 ```
-team3-aira-project/
+AIRA/
 │
-├── src/
-│   ├── frontend/          # React + Vite + Tailwind UI
-│   ├── backend/           # Supabase Edge Functions / API Gateway
-│   └── utils/             # Shared utilities
-│
-├── data/
-│   └── sample_papers/     # Test PDFs
-│
-├── docs/                  # Architecture + UML diagrams
-│   ├── AIRA_Design_Architecture.pdf
-│   ├── UML_Diagram.png
-│   ├── Activity_Diagram.png
-│   └── Architecture.png
-│
-├── scripts/
-│   └── setup.sh
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── LICENSE (optional)
+└── AIRA_Frontend/                 # Main frontend application
+    │
+    ├── docs/                      # Architecture + UML + Activity diagrams
+    │   ├── AIRA_Architecture.png
+    │   ├── AIRA_Activity.png
+    │   └── placeholder.txt
+    │
+    ├── public/                    # Public assets for Vite
+    │
+    ├── src/                       # React + Vite + Tailwind source code
+    │   ├── components/
+    │   ├── pages/
+    │   ├── context/
+    │   └── App.jsx
+    │
+    ├── tools/                     # Any helper scripts or build tools
+    │
+    ├── .nvmrc
+    ├── .version
+    ├── index.html
+    ├── package.json
+    ├── package-lock.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── vite.config.js
+    │
+    └── README.md                  # Project documentation
+
 ```
 
 ---
