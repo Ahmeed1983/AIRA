@@ -74,8 +74,8 @@ AIRA/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/team3-aira-project.git
-cd team3-aira-project
+git clone https://github.com/Ahmeed1983/AIRA.git
+cd AIRA/AIRA_Frontend
 ```
 
 ### 2. Install dependencies
@@ -89,9 +89,9 @@ npm install
 Create a `.env.local` file:
 
 ```
-VITE_SUPABASE_URL=your-supabase-url
-VITE_SUPABASE_ANON_KEY=your-anon-key
-OPENAI_API_KEY=your-openai-key
+VITE_SUPABASE_URL = supabase-url
+VITE_SUPABASE_ANON_KEY = anon-key
+OPENAI_API_KEY = openai-key
 ```
 
 ### 4. Run the development server
@@ -102,7 +102,7 @@ OPENAI_API_KEY=your-openai-key
 npm run dev
 ```
 
-**Backend (optional local Edge Function / Node)**
+**Backend (Supabase Edge Function)**
 
 ```bash
 npm start
