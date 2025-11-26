@@ -2,7 +2,7 @@
 
 # **AI Research Assistant (AIRA)**
 
-AIRA (AI Research Assistant) is a web-based platform designed to help students, researchers, and professionals efficiently discover scholarly papers, generate AI-assisted summaries, and interact with PDFs through a Retrieval-Augmented Generation (RAG) system.
+AIRA is a web-based platform designed to help students, researchers, and professionals efficiently discover scholarly papers, generate AI-assisted summaries, and interact with PDFs through a Retrieval-Augmented Generation (RAG) system.
 It integrates semantic search, vector retrieval, and pluggable AI providers (OpenAI) to create a streamlined research workflow.
 
 ---
@@ -139,7 +139,9 @@ npm start
 
 ## **Architecture Diagram**
 
-![Architecture Diagram](./docs/AIRA_Architecture.png)
+![Architecture Diagram](./AIRA_Frontend/docs/AIRA_Architecture.png)
+![Activity Diagram](./AIRA_Frontend/docs/AIRA_Activity.png)
+
 
 
 ---
