@@ -140,7 +140,7 @@ npm start
 ## **Architecture Diagram**
 
 ![Architecture Diagram](./AIRA_Frontend/docs/AIRA_Architecture.png)
-![Activity Diagram](./AIRA_Frontend/docs/AIRA_Activity.png)
+
 
 
 
@@ -148,7 +148,7 @@ npm start
 
 ## **UML & Activity Diagrams**
 
-![Activity Diagram](./docs/AIRA_Activity.png)
+![Activity Diagram](./AIRA_Frontend/docs/AIRA_Activity.png)
 
 
 
