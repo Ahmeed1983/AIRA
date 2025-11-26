@@ -139,11 +139,15 @@ npm start
 
 ## **Architecture Diagram**
 
-*(Insert the architecture image once uploaded)*
+![Architecture Diagram](./docs/AIRA ARCHITECTURE.png)
+
 
 ---
 
 ## **UML & Activity Diagrams**
+
+![Activity Diagram](./docs/activity.png)
+
 
 The activity diagram outlines:
 
