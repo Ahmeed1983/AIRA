@@ -31,8 +31,8 @@ const WriterPage = () => {
 
     const showComingSoonToast = (feature) => {
         toast({
-            title: 'Coming Soon!',
-            description: `🚧 The ${feature} feature isn't implemented yet—but don't worry! You can request it in your next prompt! 🚀`,
+            title: 'Research',
+            description: `The ${feature} Research`,
         });
     };
 
