@@ -84,17 +84,7 @@ cd AIRA/AIRA_Frontend
 npm install
 ```
 
-### 3. Configure environment variables
-
-Create a `.env.local` file:
-
-```
-VITE_SUPABASE_URL = supabase-url
-VITE_SUPABASE_ANON_KEY = anon-key
-OPENAI_API_KEY = openai-key
-```
-
-### 4. Run the development server
+### 3. Run the development server
 
 **Frontend**
 
